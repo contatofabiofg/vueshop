@@ -1,5 +1,7 @@
 ## E-commerce features utilizando Vue.js
 
+![e-commerce readme art copy](https://user-images.githubusercontent.com/84576249/179309142-5d7d8f31-ed3d-4fa9-a022-0c1b4403e46d.png)
+
 Olá! Nesse repositório estou registrando o código que estou desenvolvendo para features utilizados em e-commerce. O primeiro e já disponível é o da páginação. Em breve outros features serão disponibilizados.
 
 ## 🔨 Funcionalidades do projeto
