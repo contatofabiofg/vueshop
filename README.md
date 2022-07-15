@@ -1,24 +1,38 @@
-# vueshop
+## Ecommerce features utilizando Vue.js
 
-## Project setup
-```
-npm install
-```
+Olá! Nesse repositório está o código que desenvolvi para features utilizados em e-commerce.  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🔨 Funcionalidades do projeto
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Paginação
 
-### Lints and fixes files
-```
-npm run lint
-```
+## ✔️ Técnicas e tecnologias utilizadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+- `HTML`
+- `CSS`
+- `Javascript`
+  - `Variáveis e operadores`
+  - `Funções`
+  - `if-Else, While e ForEach`
+  - `Métodos de Array`
+- `Requisição com Axios`
+- `Vue.js 3`
+  - `SFC`
+  - `v-for`
+  - `v-bind`
+
+
+## 📁 Acesso ao projeto
+
+Em breve, um link do projeto em funcionamento
+
+## 🛠️ Abrir e rodar o projeto
+
+- Clone esse repositório
+- para instar, utilize o código: npm install
+- Para rodar o projeto: npm run serve
+
+## 📚 Mais informações 
+
+Faça contato! Me envie um e-mail sobre o que achou: contatofabiofg@hotmail.com
