@@ -1,10 +1,10 @@
-## Ecommerce features utilizando Vue.js
+## E-commerce features utilizando Vue.js
 
-Olá! Nesse repositório está o código que desenvolvi para features utilizados em e-commerce.  
+Olá! Nesse repositório estou registrando o código que estou desenvolvendo para features utilizados em e-commerce. O primeiro e já disponível é o da páginação. Em breve outros features serão disponibilizados.
 
 ## 🔨 Funcionalidades do projeto
 
-- Paginação
+- Paginação: utilizando v-for e funções para alternar a página atual - as páginas/seleções são arrays dentro de um array maior.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -16,11 +16,13 @@ Olá! Nesse repositório está o código que desenvolvi para features utilizados
   - `Funções`
   - `if-Else, While e ForEach`
   - `Métodos de Array`
-- `Requisição com Axios`
+- `Requisição (com Axios)`
 - `Vue.js 3`
-  - `SFC`
+  - `Single File Components`
   - `v-for`
   - `v-bind`
+- `Typescript`
+- `Fake Store API` : https://fakestoreapi.com/
 
 
 ## 📁 Acesso ao projeto
